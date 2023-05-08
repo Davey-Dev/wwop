@@ -1,0 +1,16 @@
+{
+  "name": "wwop-discord",
+  "version": "1.0.0",
+  "description": "",
+  "main": "wwop.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.8.0",
+    "fs": "^0.0.1-security",
+    "jimp": "^0.22.7"
+  }
+}
