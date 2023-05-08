@@ -1,4 +1,4 @@
-Wacky Wheel of Pain
+# Wacky Wheel of Pain
 
 Note that this bot uses node v16.11.0.
 
