@@ -1,6 +1,5 @@
 {
     "token": "discordtokenhere",
     "clientId": "clientidhere",
-    "guildId": "serveridhere",
-	
+    "guildId": "serveridhere"
 }
